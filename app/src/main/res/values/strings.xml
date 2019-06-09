@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">nyoba</string>
     <string name="action_settings">Settings</string>
+
+    <string-array name="dataArray">
+        <item>Mandi</item>
+        <item>Toilet</item>
+    </string-array>
 </resources>
